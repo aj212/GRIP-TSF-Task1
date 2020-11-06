@@ -35,7 +35,9 @@
 <body>
 
     <div class="brand">#WeWillWin</div>
-    <div class="address-bar">Let's fight together</div>
+    <div class="address-bar">Let's fight together<br><br>
+    <b>Made By ANMOL JOSHI</b>
+    </div>
 
 	<?php
 		
